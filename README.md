@@ -11,7 +11,7 @@ By installing ActiveMaterialIcon you will have a material icons on your menu.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'active_admin'
+gem 'activeadmin'
 gem 'active_material', github: 'vigetlabs/active_material', branch: 'nh-responsive-redesign'
 gem 'active_material_icon' # ActiveMaterialIcon after active_admin and active_material
 ```
