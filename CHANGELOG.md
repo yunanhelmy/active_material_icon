@@ -9,3 +9,7 @@ Bump Version
 # 0.1.2
 
 Update description and summary of gem
+
+# 0.1.3
+
+Install dependencies
