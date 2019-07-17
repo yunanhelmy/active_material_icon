@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Yunan Helmy"]
   spec.email         = ["m.yunan.helmy@gmail.com"]
 
-  spec.summary       = "Hello"
-  spec.description   = "Hello"
+  spec.summary       = "ActiveMaterialIcon is an additional menu icon for active_material https://github.com/vigetlabs/active_material"
+  spec.description   = "ActiveMaterialIcon is an additional menu icon for active_material https://github.com/vigetlabs/active_material. It is specified for branch nh-responsive-redesign."
   spec.homepage      = "https://github.com/yunanhelmy/active_material_icon"
   spec.license       = "MIT"
 
